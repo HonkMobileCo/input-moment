@@ -1,6 +1,6 @@
 {
   "name": "input-moment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React datetime picker powered by momentjs",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,8 @@
   "author": "Wang Zuo",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
     "moment": "^2.10.6"
   },
   "devDependencies": {
@@ -54,7 +54,7 @@
     "blacklist": "^1.1.2",
     "classnames": "^2.2.0",
     "lodash": "^3.10.1",
-    "react-input-slider": "^1.5.0"
+    "react-input-slider": "https://github.com/HonkMobileCo/react-input-slider.git"
   },
   "directories": {
     "example": "example"
