@@ -32,8 +32,7 @@
   "license": "ISC",
   "peerDependencies": {
     "react": "^15.0.1",
-    "react-dom": "^15.0.1",
-    "moment": "^2.10.6"
+    "react-dom": "^15.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.1.2",
@@ -51,6 +50,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "moment": "^2.10.6",
     "blacklist": "^1.1.2",
     "classnames": "^2.2.0",
     "lodash": "^3.10.1",
